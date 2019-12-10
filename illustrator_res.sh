@@ -1,4 +1,6 @@
+#!/bin/bash
 
+# Usage: ./<script> <target root folder> <res folder suffix>
 illFolders=("0.75x" "1x" "1.5x" "2x" "3x" "4x")
 androidFolders=("ldpi" "mdpi" "hdpi" "xhdpi" "xxhdpi" "xxxhdpi")
 
